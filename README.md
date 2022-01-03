@@ -11,6 +11,6 @@ This method can determine the final solution or be a prelude to a more modified 
 
 ### How to view the attached Jupyter notebook script:
 In case of troubles with opening of the Jupyter notebook scripts, plase open https://nbviewer.jupyter.org/ and paste the link   
-Semantic_text_clustering__another_way_to_study_cluster_homogeneity.ipynb   
-https://github.com/Lobodzinski/Semantic_Search__dynamical_estimation_of_the_cut_of_for_selected_matches/blob/main/Estimation_of_the_threshold_for_matched_pairs_of_queries__semantic%20search.ipynb   
+Semantic_text_clustering__testing_homogeneity_of_text_clusters_using_Shannon_entropy.ipynb
+https://github.com/Lobodzinski/Semantic_text_clustering__testing_homogeneity_of_text_clusters_using_Shannon-entropy/blob/main/Semantic_text_clustering__testing_homogeneity_of_text_clusters_using_Shannon_entropy.ipynb   
 into notepad (this is a standalone tool that can work when github is not working).
